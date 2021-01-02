@@ -12,4 +12,4 @@ Configure the speech patterns and relative responses for your own use in **inten
 python chat.py
 ```
 ## Example
-[a nice chat](./example.jpg)
+![a nice chat](./example.jpg)
